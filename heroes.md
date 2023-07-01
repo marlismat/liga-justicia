@@ -9,3 +9,5 @@
 * Volcán Negro
 * cambio uno
 * cambio local
+* nick fury
+* capitan Marvel
